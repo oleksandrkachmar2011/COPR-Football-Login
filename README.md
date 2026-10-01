@@ -1,4 +1,4 @@
 # COPR-Football-Login
 
-Google Sheets Link
-https://docs.google.com/spreadsheets/d/15TwS5JJbKEBgrOEJIszS2QF8OMUcHbhXAK5KecE_zds/edit?usp=sharing
+Google Forms
+https://docs.google.com/forms/d/1sGHsZIXHQvIlKhU4Xde1qRONQ9rTGK-Z3gyoi5dWw8M/edit
